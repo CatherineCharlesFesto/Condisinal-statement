@@ -6,4 +6,4 @@ if num>15:
 elif num<15:
     print(f"{num} is smaller than 15")
 else:
-    print(f"{num} is equal to 15")
+    print(f"{num} is equal to 15 ")
